@@ -55,7 +55,7 @@
             </style>
         </table>
         <figure>
-            <img src="download.jpeg" alt="logo">
+            <img src="download.jpeg" alt="logo"><br>
             <figcaption>LOGO</figcaption>
         </figure>
         <video width="400" height="300" controls>
