@@ -1,0 +1,36 @@
+
+header{
+    background-image: url("http://csszengarden.com/001/cr2.gif");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 20px;
+    background-attachment: scroll;
+    padding-top: 60px;
+	height: 100px;
+	
+   }
+#head{
+    font-size: 30px;
+    margin-top: -2%;
+	margin-left: 20px;
+	text-decoration: underline;
+	text-shadow: 2px 2px 5px;
+}
+body { 
+	font: italic 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+	margin: 0; 
+	padding: 0;
+    }
+h3 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #7D775C;
+	}
+footer { 
+	text-align: center; 
+	text-decoration: underline;
+	}
